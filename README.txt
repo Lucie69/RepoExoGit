@@ -1,0 +1,1 @@
+Ceci est un exercice qui sera évalué dans le cadre du cours sur Git et GitHub d'OCR
